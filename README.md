@@ -21,7 +21,7 @@ It can also smooth out noisy terrains, such as this one:
 
 <img src="https://user-images.githubusercontent.com/69982525/121828887-d1523e00-cc75-11eb-9b8d-96095d4bc5c8.png"/>
 
-The result:
+The result -
 
 <img src="https://user-images.githubusercontent.com/69982525/121828890-d1ead480-cc75-11eb-9232-4e01669d48ee.png"/>
 
